@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Truong-Dev-89
-- 👀 I’m interested in C#,.NET, ASP.NET Core Web API
-- 🌱 I’m currently learning ASP.NET Core Web API
-- 💞️ I’m looking to collaborate on Project C# .NET
-- 📫 How to reach me Zalo: 0345365945
-
-<!---
-Truong-Dev-89/Truong-Dev-89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* 👋 Hi, I’m @Truong-Dev-89
+* 👀 I’m interested in AI Vision, Computer Vision, Python, Docker, and Machine Learning
+* 🌱 I’m currently learning AI Vision and developing AI-based image inspection systems
+* 🐍 Working with Python, OpenCV, and AI/ML technologies
+* 🐳 Experienced with Docker and containerized applications
+* 🤖 Interested in AI-powered OK/NG detection and automated visual inspection
+* 💞️ I’m looking to collaborate on AI Vision, Computer Vision, and Python projects
+* 📫 How to reach me: Zalo: 0345365945
